@@ -17,6 +17,7 @@ public class TC01_AramaKutusuTesti {
         page.aramaKutusu.sendKeys("iphone", Keys.ENTER);
         Driver.closeDriver();
         Driver.quitDriver();
+        //yanı kodlar eklendı
 
     }
 }
